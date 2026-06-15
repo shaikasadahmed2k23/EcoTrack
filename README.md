@@ -10,6 +10,17 @@
 
 ---
 
+## 📱 About EcoTrack
+
+EcoTrack is a production-ready sustainability mobile application that encourages
+eco-friendly actions through gamification. Users can track habits, complete daily
+challenges, earn XP points, compete on leaderboards, engage with a community,
+redeem rewards, and support real-world environmental causes.
+
+Built as part of the **Innovexa Catalyst Industrial Training Program — Batch 2026**.
+
+---
+
 ## 📸 Screenshots
 
 <table>
@@ -34,17 +45,6 @@
     <td><img src="screenshots/admin_dashboard.png" width="100%" alt="Admin Panel - Dashboard"/><p align="center"><b>Admin: Dashboard</b></p></td>
   </tr>
 </table>
-
----
-
-## 📱 About EcoTrack
-
-EcoTrack is a production-ready sustainability mobile application that encourages
-eco-friendly actions through gamification. Users can track habits, complete daily
-challenges, earn XP points, compete on leaderboards, engage with a community,
-redeem rewards, and support real-world environmental causes.
-
-Built as part of the **Innovexa Catalyst Industrial Training Program — Batch 2026**.
 
 ---
 
